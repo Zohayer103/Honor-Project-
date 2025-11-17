@@ -31,14 +31,4 @@ These CSVs correspond to the thesis evaluation:
 - `ood_predictions_flip.csv` – predictions on the LoRA/FM diffusion subset (OOD benchmark).
 - `ai_generated_predictions.csv` – predictions on a small ITW set of 2025 AI-generated portraits.
 
----
 
-## Usage
-
-> Note: Datasets (DF40, LoRA/FM, and ITW images) are **not included** in this repository
-> due to licensing and size constraints. Paths below assume a compatible directory layout.
-
-### 1. Install dependencies
-
-```bash
-pip install -r requirements.txt
