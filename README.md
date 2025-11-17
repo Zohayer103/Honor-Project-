@@ -21,6 +21,7 @@ The goal is to study how a classic mesoscopic CNN behaves under 2025-style gener
 - `train.py` – training script for DF40-style datasets (not re-distributed here).
 - `mesonet_best_full.keras` – best-performing checkpoint trained on the DF40 subset.
 - `requirements.txt` – Python dependencies (TensorFlow, Keras, etc.).
+- `test_mesonet.py` - Python code Used to test the DF40 datasts 
 
 ### Prediction artefacts
 
